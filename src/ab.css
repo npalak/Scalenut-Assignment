@@ -1,0 +1,26 @@
+.tableHover :hover {
+    color: white;
+    background-color: green;
+  }
+  
+  .tableSelected {
+    background-color: green;
+  }
+  
+  th {
+    border: 2px solid rgb(17, 13, 13);
+  }
+  
+  div {
+    display: inline-block;
+  }
+  
+  table {
+    background-color: rgb(245, 180, 245);
+    float: left;
+  }
+  
+  #td {
+    padding: 20px;
+  }
+  
